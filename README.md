@@ -11,7 +11,6 @@ B.Tech student at **IIT Roorkee** (Class of 2027), building things for the web a
 [![X](https://img.shields.io/badge/X-@Ech0Blade-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ech0Blade)
 [![Email](https://img.shields.io/badge/Email-Say%20hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahendra_l@mt.iitr.ac.in)
 
-![Profile Views](https://komarev.com/ghpvc/?username=mahendra07limanpure&label=Profile%20views&color=0e75b6&style=flat)
 
 </div>
 
