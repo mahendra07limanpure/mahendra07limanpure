@@ -72,23 +72,6 @@ Core CS foundations I lean on every day: Data Structures & Algorithms · Object-
 
 ---
 
-## 🏆 Achievements
-
-- 🥈 **2nd Place**, IIT Roorkee Tech GC Blockchain Hackathon (Team Enigma)
-- 🏅 **Codeforces Specialist**, max rating **1537**
-- 🌍 Global rank **661** in Codeforces Round 1033 (Div. 2) and **1586** in Round 1020 (Div. 3)
-
----
-
-## 💼 Experience & Leadership
-
-- **Front-End Developer Intern**, Orbit Opportunity and Media Limited *(Apr 2025 – Jun 2025)*
-- **Executive Member (Development)**, Students' Technical Council, IIT Roorkee *(Oct 2024 – Jun 2025)*
-- **Executive Member**, Hostel Council, IIT Roorkee *(Feb 2025 – Jun 2025)*
-- **Executive Member**, Unnat Bharat Abhiyan (UBA) *(Jan 2024 – May 2025)*
-
----
-
 ## 🌱 Currently
 
 - 🔨 Going deeper into multi-agent AI systems and LLM-based workflows
